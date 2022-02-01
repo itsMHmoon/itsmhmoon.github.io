@@ -1,3 +1,6 @@
+Version: 0.0.2 [02.02.2022]
+  - photo update
+  - email form
 
 Version: 0.0.1 [02.02.2022]
   - Initial publish
