@@ -1,3 +1,7 @@
+Version: 0.0.3 [02.02.2022]
+  - icon update
+  - footer update
+
 Version: 0.0.2 [02.02.2022]
   - photo update
   - email form
