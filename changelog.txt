@@ -1,3 +1,7 @@
+Version: 0.0.4 [03.02.2022]
+  - Specific portfolio page added
+  - updated info
+
 Version: 0.0.3 [02.02.2022]
   - icon update
   - footer update
